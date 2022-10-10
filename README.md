@@ -10,6 +10,6 @@
 	Atualmente como TECH ENGINEER na PayGo Pagamentos.
 </p>
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGMuBD9frXdvg/profile-displaybackgroundimage-shrink_350_1400/0/1595256368397?e=1671062400&v=beta&t=Cct608ikqJqFI6obOUHbPUOs4M9nyrx-jywT0alattA"/>
 
 </html>
